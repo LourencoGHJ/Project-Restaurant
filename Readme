@@ -1,0 +1,46 @@
+# 🍖 Central Churrasco
+
+![Central Churrasco]
+
+## 📝 Descrição
+Website desenvolvido para o restaurante Central Churrasco, especializado em carnes grelhadas e gastronomia portuguesa tradicional. O site apresenta um design moderno e responsivo, com suporte a múltiplos idiomas.
+
+## ⚙️ Tecnologias Utilizadas
+- React + TypeScript
+- Tailwind CSS
+- Framer Motion
+- i18next
+- React Icons
+- React Intersection Observer
+
+## 🚀 Instalação
+Clone o repositório
+git clone 
+Entre no diretório
+cd project
+Instale as dependências
+npm install
+Inicie o servidor de desenvolvimento
+npm run dev
+
+
+
+## 🌟 Funcionalidades
+- ✨ Design responsivo e moderno
+- 🌍 Suporte a múltiplos idiomas (PT, EN, ES, FR)
+- 🎯 Animações suaves
+- 📸 Galeria de fotos
+- 📝 Sistema de reservas
+- 🗺️ Localização integrada
+- 📱 Totalmente adaptável a dispositivos móveis
+
+
+## 👨‍💻 Autor
+**Lourenço GHJ**
+- GitHub: [@LourencoGHJ](https://github.com/LourencoGHJ)
+
+## 📄 Licença
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+---
+⭐️ Se este projeto te ajudou, não se esqueça de dar uma estrela!
